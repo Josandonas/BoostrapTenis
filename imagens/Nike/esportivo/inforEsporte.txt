@@ -1,0 +1,26 @@
+Imagem 0
+
+Tênis Nike Air Zoom Pegasus
+SKU: CT3241
+Coleção: Nike
+Gênero: Masculino
+Cor: Branco, Preto, Vermelho e Dourado
+Material: Tecido, Borracha e Espuma
+
+Imagem 1
+
+Tênis Nike Quest 2
+SKU: CT9999
+Coleção: Nike
+Gênero: Masculino
+Cor: Branco, Preto
+Material: Borracha e Tecido
+
+Imagem 2
+
+Tênis Nike Zoom Pegasus Turbo 2
+SKU: CT0294
+Coleção: Nike
+Gênero: Masculino
+Cor: Branco, Preto
+Material: Tecido Sitetico, Borracha e Espuma
